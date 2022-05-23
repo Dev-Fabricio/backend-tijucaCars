@@ -4,7 +4,6 @@
         "MYSQL_PASSWORD" : "4358cae0",
         "MYSQL_DATABASE" : "heroku_f9b8427d1ab0996",
         "MYSQL_HOST" : "us-cdbr-east-05.cleardb.net",
-        "MYSQL_PORT" : 3306,
 
         "JWT_KEY": "secreto"
     }
